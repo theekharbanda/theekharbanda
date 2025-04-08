@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am Naman Kharbanda, this is my Github Repository that contains both Backend, Frontend, AI Projects. Feel free to look each of them up.
+Naman Kharbanda, this is my Github Repository that contains both Backend, Frontend, AI Projects. Feel free to look each of them up.
+
 Backend Projects Technolgies are Java, Springboot.
 Frontend Projects are made in Javascript, ReactJs, Bootstrap, Material UI.
 
