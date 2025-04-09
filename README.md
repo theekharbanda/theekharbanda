@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Kharbanda</h1>
-<h3 align="center">Reach out to me for Full Stack Development from India</h3>
+<h3 align="center">Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekharbanda&label=Profile%20views&color=0e75b6&style=flat" alt="theekharbanda" /> </p>
 
