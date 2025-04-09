@@ -6,6 +6,12 @@ Backend Projects Technolgies are Java, Springboot.
 
 Frontend Projects are made in Javascript, ReactJs, Bootstrap, Material UI.
 
+- 🔧 **Languages** : Java, SQL, Javascript,C++ 
+- 🔧 **Tech Stack/Libraries**: Springboot, React.js,PostgreSQL, React.
+- 🌱 **Currently Working on**: WorkLink Repo
+- 📫 **Contact**: namankharbanda512@gmail.com | [LinkedIn]( www.linkedin.com/in/namankharbanda )
+- 💡 **Open to**: Collaboration on interesting projects & open-source contributions
+
 <!--
 **theekharbanda/theekharbanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
